@@ -1,0 +1,36 @@
+/* BOTTONI */
+.btn-download a {
+  display: inline-block;
+  padding: 16px 32px;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  
+  background: ; /* modifica più interessante */ 
+
+  border-radius: 4px; /* modifica più quadrato */
+  
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.16);
+  transition: all 0.26s ease;
+}
+
+/* HOVER VERDE */
+.btn-download a:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 12px 30px rgba(0, 128, 0, 0.36);
+  background: linear-gradient(136deg, #008000, #006400);
+}
+
+/* CLICK */
+.btn-download a:active {
+  transform: translateY(0) scale(0.98);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* FOCUS */
+.btn-download a:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(0, 128, 0, 0.4);
+}
