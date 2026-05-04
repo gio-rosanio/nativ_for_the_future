@@ -23,7 +23,7 @@ codice dell'intero sito web
 - Documenti e Approfondimenti
 - Contatti
 
-- Obiettivo:
+-Obiettivo:
 - Realizzazione di un sito moderno, responsive e orientato
   alla comunicazione della sostenibilità aziendale
 
