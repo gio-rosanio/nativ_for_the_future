@@ -6,7 +6,7 @@ progetto per Laurea in Informatica
 Università Telematica Pegaso
 
 
-1. File: site_web_entire_code
+File 1: site_web_entire_code
 codice dell'intero sito web
 
 - Tecnologie:
@@ -26,8 +26,7 @@ codice dell'intero sito web
   alla comunicazione della sostenibilità aziendale
 
 
-
-2. File: button_download_css_code
+File 2: button_download_css_code
 codice solo del CSS aggiuntivo utilizzato per modificare il tasto Download su WordPress
 
 - Personalizzazioni CSS per migliorare UI e pulsanti (effetto hover, click e focus incluso).
