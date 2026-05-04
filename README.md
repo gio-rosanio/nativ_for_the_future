@@ -9,11 +9,11 @@ Università Telematica Pegaso
 1. File: site_web_entire_code
 codice dell'intero sito web
 
-Tecnologie
+- Tecnologie:
 - HTML, CSS, Javascripts
 - WordPress (tema Neve), vari plugins
 
-Contenuti:
+- Contenuti:
 - Home
 - Cantina
 - Sostenibilità
@@ -21,7 +21,7 @@ Contenuti:
 - Documenti e Approfondimenti
 - Contatti
 
-Obiettivo:
+- Obiettivo:
 - Realizzazione di un sito moderno, responsive e orientato
   alla comunicazione della sostenibilità aziendale
 
@@ -30,4 +30,4 @@ Obiettivo:
 2. File: button_download_css_code
 codice solo del CSS aggiuntivo utilizzato per modificare il tasto Download su WordPress
 
-Personalizzazioni CSS per migliorare UI e pulsanti (effetto hover incluso).
+- Personalizzazioni CSS per migliorare UI e pulsanti (effetto hover, click e focus incluso).
