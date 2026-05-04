@@ -11,11 +11,11 @@ File 1: site_web_entire_code
 
 codice dell'intero sito web
 
-- Tecnologie:
+-Tecnologie:
 - HTML, CSS, Javascripts
 - WordPress (tema Neve), vari plugins
 
-- Contenuti:
+-Contenuti:
 - Home
 - Cantina
 - Sostenibilità
