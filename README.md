@@ -7,6 +7,7 @@ Università Telematica Pegaso
 
 
 File 1: site_web_entire_code
+
 codice dell'intero sito web
 
 - Tecnologie:
@@ -27,6 +28,7 @@ codice dell'intero sito web
 
 
 File 2: button_download_css_code
+
 codice solo del CSS aggiuntivo utilizzato per modificare il tasto Download su WordPress
 
 - Personalizzazioni CSS per migliorare UI e pulsanti (effetto hover, click e focus incluso).
